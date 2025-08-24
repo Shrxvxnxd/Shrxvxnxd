@@ -5,7 +5,7 @@
 🌱 Learning Java, MongoDB 
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?hideAvatar=true&idleMessage=🌙%20Sleeping&borderRadius=5px)](https://discord.com/users/1271709462620540971)
+[![Discord Presence](https://discord.c99.nl/widget/theme-3/1271709462620540971.png)](https://discord.com/users/1271709462620540971)
 
 
 
