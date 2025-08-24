@@ -10,9 +10,9 @@
 - 💬 Discord: **Shravan Kumar**  
 
 ---
-  
 
-[![Online](https://img.shields.io/badge/Discord-🟢%20Online-brightgreen?style=for-the-badge&logo=discord)](https://discord.com/users/1271709462620540971)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?bg=1a1b27&theme=dark&borderRadius=15px&idleMessage=⚡%20Taking%20a%20break&animated=true)](https://discord.com/users/1271709462620540971)
+
 
 
 
