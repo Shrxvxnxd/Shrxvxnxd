@@ -2,11 +2,9 @@
 
 🚀 Writing code that (mostly) works 😆  
 🛠️ Building bots, servers & fun side projects  
-🌱 Learning Next.js, React Native & better ways to avoid breaking prod  
+🌱 Learning Java, MongoDB 
 
----
-
-## 🌐 Connect with Me  
+ 
 - 🕵️‍♂️ Website: [shravankumar.in](http://shravankumar.in)  
 - 📫 Email: **contact@shravankumar.in**  
 - 💬 Discord: **Shravan Kumar**  
