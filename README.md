@@ -12,6 +12,7 @@
 - 💬 Discord: **Shravan Kumar**  
 
 ---
+  
+## 🎮 Connect on Discord  
+[![Discord](https://img.shields.io/badge/Discord-Shravan%20Kumar-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1271709462620540971)
 
-## 🎮 Discord Live Profile  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?theme=dark&bg=0d1117&borderRadius=20px&animated=true&hideDiscrim=true)](https://discord.com/users/1271709462620540971)
