@@ -13,7 +13,7 @@
   
 ## 🎮 Connect on Discord  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971)](https://discord.com/users/1271709462620540971)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?bg=0d1117&borderRadius=8px&hideBadges=true&animated=false&idleMessage=🌙%20Away)](https://discord.com/users/1271709462620540971)
 
 
 
