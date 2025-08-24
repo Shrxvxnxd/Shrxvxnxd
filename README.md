@@ -5,7 +5,9 @@
 🌱 Learning Java, MongoDB 
 
 ---
-[![Discord Presence](https://discord.c99.nl/widget/theme-3/1271709462620540971.png)](https://discord.com/users/1271709462620540971)
+### Discord Profile
+![Discord](https://discord.c99.nl/widget/theme-3/1271709462620540971.png)
+
 
 
 
