@@ -10,8 +10,8 @@
 - 💬 Discord: **Shravan Kumar**  
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?hideAvatar=true&idleMessage=🌙%20Sleeping&borderRadius=5px)](https://discord.com/users/1271709462620540971)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1271709462620540971?bg=1a1b27&theme=dark&borderRadius=15px&idleMessage=⚡%20Taking%20a%20break&animated=true)](https://discord.com/users/1271709462620540971)
 
 
 
