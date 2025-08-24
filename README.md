@@ -9,7 +9,8 @@ I write code that works... sometimes 😆
 ---
 
 ### 🎮 Discord Activity
-![Discord](https://img.shields.io/badge/Discord-Streaming%20Live-5865F2?logo=discord&logoColor=white&style=for-the-badge)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1271709462620540971)
+
 
 📺 **Now Streaming on Discord Live**  
 _Coding • Debugging • Breaking prod (and fixing it again)_  
