@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey 👋, I'm Shravan Kumar  
 
-<!--
-**Shrxvxnxd/Shrxvxnxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code that works... sometimes 😆  
 
-Here are some ideas to get you started:
+🛠️ Currently hacking on random bots, servers & weird side projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Next.js, React Native, and how not to break prod  
+
+---
+
+### 🎮 Discord Activity
+![Discord](https://img.shields.io/badge/Discord-Streaming%20Live-5865F2?logo=discord&logoColor=white&style=for-the-badge)
+
+📺 **Now Streaming on Discord Live**  
+_Coding • Debugging • Breaking prod (and fixing it again)_  
+
+---
+
+🕵️‍♂️ Stalk me here: [heyysudhi.in](http://heyysudhi.in)  
+
+📫 Email me: **contact@heyysudhi.in**  
+
+💬 Discord: **heyysudhi**  
