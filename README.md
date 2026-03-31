@@ -8,7 +8,7 @@
   <br>
 
   <a href="https://discord.com">
-    <img src="https://discord.c99.nl/widget/theme-3/1271709462620540971.png" alt="Discord Profile">
+    <img src="https://discord.c99.nl/widget/theme-3/1271709462620540971.png" alt="Discord Profile" width="380">
   </a>
 
   <br><br>
